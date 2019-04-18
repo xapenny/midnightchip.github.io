@@ -1,0 +1,250 @@
+Package: com.breadworks.fluidity
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Kieran Wilson
+Architecture: iphoneos-arm
+Filename: debs//Fluidity.deb
+Size: 258862
+MD5sum: 9ac9b783966c6ade610dd5799906b525
+Description: Add iPX UI to other iOS 11 devices. Can be installed over FluidEnabler. Respring if Cydia doesn't.
+Name: Fluidity
+Author: Sam Breadman
+Homepage: https://twitter.com/samthebreadman
+Depiction: 
+
+Package: com.julioverne.ext3nder-installer
+Version: 16.6
+Section: Utilities
+Maintainer: Julio, MidnightChips
+Pre-Depends: unzip, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Architecture: iphoneos-arm
+Filename: debs//com.julioverne.ext3nder-installer.deb
+Size: 579542
+MD5sum: 5951ed8e416be7ae1b8933ae453ca87e
+Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
+Name: Ext3nder Installer
+Author: julioverne, MidnightChips
+Homepage: http://twitter.com/ijulioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+
+Package: com.julioverne.ext3nder-installer
+Version: 16.5
+Section: Utilities
+Maintainer: Julio, MidnightChips
+Pre-Depends: unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Architecture: iphoneos-arm
+Filename: debs//com.julioverne.ext3nder-installer16.5.deb
+Size: 579784
+MD5sum: 3bfc8f1057289efe9893a5db87eddf8b
+Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
+Name: Ext3nder Installer
+Author: julioverne, MidnightChips
+Homepage: http://twitter.com/ijulioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+
+Package: com.julioverne.ext3nder-installer
+Version: 16.7
+Section: Utilities
+Maintainer: Julio, MidnightChips
+Pre-Depends: unzip, zip, sed, curl
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Architecture: iphoneos-arm
+Filename: debs//ext3nder.deb
+Size: 475688
+MD5sum: 13ec7414f40a7360cbd3dfcd913ed36e
+Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
+Name: Ext3nder Installer
+Author: julioverne, MidnightChips
+Homepage: http://twitter.com/ijulioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+
+Package: com.midnightchips.asteroid
+Version: 1.0
+Priority: optional
+Section: Tweaks
+Maintainer: midnightchips & the casle
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Conflicts: 
+Replaces: 
+Architecture: iphoneos-arm
+Filename: debs//com.midnightchips.asteroid_1.0_iphoneos-arm.deb
+Size: 630070
+Installed-Size: 1108
+MD5sum: f99da88ce39f58342fd77b11f413d45e
+Description: System-wide weather tweak.
+Name: Asteroid
+Author: midnightchips & the casle
+Icon: 
+
+Package: com.midnightchips.asteroid
+Version: 1.9.9
+Priority: optional
+Section: Tweaks
+Maintainer: midnightchips & the casle
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Conflicts: 
+Replaces: 
+Architecture: iphoneos-arm
+Filename: debs//com.midnightchips.asteroid_1.9.9_iphoneos-arm.deb
+Size: 624646
+Installed-Size: 1048
+MD5sum: 6f51d3572c981d1696b881722b9b6019
+Description: System-Wide Weather.
+Name: Asteroid
+Author: midnightchips & the casle
+Icon: 
+
+Package: com.midnightchips.bettersettings
+Version: 0.1.1
+Section: Tweaks
+Maintainer: midnightchips
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: debs//com.midnightchips.bettersettings_0.1.1_iphoneos-arm.deb
+Size: 1269784
+Installed-Size: 1852
+MD5sum: 6fdf8bbf489a0a1c6b582d8058af594f
+Description: Settings your way
+Name: BetterSettings
+Author: midnightchips
+Depiction: https://midnightchips.me/depictions/asteroid/
+
+Package: com.midnightchips.homehijack
+Version: 1.3.2
+Section: Tweaks
+Maintainer: MidnightChip
+Depends: mobilesubstrate, applist, preferenceloader
+Architecture: iphoneos-arm
+Filename: debs//HomeHijack.deb
+Size: 95682
+Installed-Size: 372
+MD5sum: b116159027c6dda5199f9c50b454d350
+Description: Get rid of the annoying Siri, and use something worthwhile!
+Name: HomeHijack
+Author: MidnightChip
+Depiction: https://repo.auxiliumdev.com/depictions/?p=HomeHijack
+Icon: file:///Library/PreferenceBundles/homehijackpreferences.bundle/icon.png
+
+Package: com.vitataf.homegesture
+Version: 1.7.1
+Section: Tweaks
+Maintainer: MidnightChips/PINPAL
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: debs//com.vitataf.homegesture_1.7.1_iphoneos-arm.deb
+Size: 821254
+Installed-Size: 984
+MD5sum: 870a244e93f77de1a7880f6463cb7a95
+Description: Enable iPhone X home gesture on other devices.
+Name: HomeGesture
+Author: VitaTaf/MidnightChips/PINPAL
+Depiction: https://pinpal.github.io/package/HomeGesture/index.html
+Icon: https://cdn.discordapp.com/attachments/418170831592488972/465268776091254815/icon.png
+
+Package: com.vitataf.homegesture
+Version: 1.7
+Section: Tweaks
+Maintainer: MidnightChips/PINPAL
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: debs//com.vitataf.homegesture_1.7_iphoneos-arm.deb
+Size: 821316
+Installed-Size: 984
+MD5sum: 07b3b0cd70ee6e5143bbabed7f1008b5
+Description: Enable iPhone X home gesture on other devices.
+Name: HomeGesture
+Author: VitaTaf/MidnightChips/PINPAL
+Depiction: https://pinpal.github.io/package/HomeGesture/index.html
+Icon: https://cdn.discordapp.com/attachments/418170831592488972/465268776091254815/icon.png
+
+Package: com.vitataf.homegesturelite
+Version: 1.4
+Section: Tweaks
+Maintainer: MidnightChips PINPAL
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.vitataf.homegesturelite_1.4_iphoneos-arm.deb
+Size: 4010
+Installed-Size: 88
+MD5sum: 18974af8a0055e53af077731087f348c
+Description: Enable iPhone X home gesture on other devices.
+Name: HomeGesture Lite
+Author: VitaTaf
+
+Package: com.vitataf.homegesturelite
+Version: 1.5
+Section: Tweaks
+Maintainer: MidnightChips PINPAL
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.vitataf.homegesturelite_1.5_iphoneos-arm.deb
+Size: 3428
+Installed-Size: 88
+MD5sum: 6dc0345d40bd322af3ad922cbe9d7e3c
+Description: Enable iPhone X home gesture on other devices.
+Name: HomeGesture Lite
+Author: VitaTaf
+
+Package: me.midnightchips.snapback
+Version: 1.0.1
+Section: Application
+Maintainer: MidnightChips
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Architecture: iphoneos-arm
+Filename: debs//me.midnightchips.snapback_1.0.1_iphoneos-arm.deb
+Size: 515492
+Installed-Size: 992
+MD5sum: e6b85c09c264970bd68e49e5be81c8ee
+Description: iOS Time Machine
+Name: SnapBack
+Author: MidnightChips
+
+Package: me.midnightchips.snapback
+Version: 1.0.2
+Section: Application
+Maintainer: MidnightChips
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Architecture: iphoneos-arm
+Filename: debs//me.midnightchips.snapback_1.0.2_iphoneos-arm.deb
+Size: 515674
+Installed-Size: 992
+MD5sum: c28d3bfce28a1d2b81917080ab26897c
+Description: iOS Time Machine
+Name: SnapBack
+Author: MidnightChips
+Depiction: https://midnightchips.me/depiction/?snapback
+
+Package: me.midnightchips.snapback
+Version: 1.0.3
+Section: System
+Maintainer: MidnightChips
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Architecture: iphoneos-arm
+Filename: debs//me.midnightchips.snapback_1.0.3_iphoneos-arm.deb
+Size: 515718
+Installed-Size: 992
+MD5sum: b26d2287e3008d214e36d2c631c47d5a
+Description: iOS Time Machine
+Name: SnapBack (BETA)
+Author: MidnightChips
+Depiction: https://midnightchips.me/depiction/?snapback
+
+Package: me.midnightchips.snapback
+Version: 1.0
+Section: Application
+Maintainer: MidnightChips
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Architecture: iphoneos-arm
+Filename: debs//me.midnightchips.snapback_1.0_iphoneos-arm.deb
+Size: 515108
+Installed-Size: 992
+MD5sum: 79167fb9052abaeb0f94e726fb9375a9
+Description: iOS Time Machine
+Name: SnapBack
+Author: MidnightChips
+
